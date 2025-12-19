@@ -1,0 +1,16 @@
+{
+  "name": "job-scraper-playwright",
+  "version": "1.0.0",
+  "description": "This project is a job listings scraper built with **Playwright (JavaScript)**.\r It demonstrates real-world web scraping concepts including DOM extraction,\r pagination handling, and exporting data to CSV format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/scraper.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.57.0"
+  }
+}
